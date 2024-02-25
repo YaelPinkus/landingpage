@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: "Playfair Display", serif;
+	font-weight: weight;
+    font-style: normal;
+    font-size: 15px;
+}
+
+h1, h2, h3 {
+	font-family:"Noto Sans", sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration:none ;
+}

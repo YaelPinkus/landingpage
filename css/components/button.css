@@ -1,0 +1,15 @@
+.btn-red{
+	background-color: #DD2222;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	transition: color 0.4s ease;
+	font-family:"Noto Sans", sans-serif;
+}
+
+.btn-red:hover{
+	background-color: #C12C27;
+	color: white;
+	font-family:"Noto Sans", sans-serif;
+	letter-spacing: 1px;
+}
